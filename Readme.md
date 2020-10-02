@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алексей Бочаров](https://up.htmlacademy.ru/javascript/21/user/107946).
-* Наставник: `Неизвестно`.
+* Наставник: `Рафаэль Гулиев`.
 
 ---
 
