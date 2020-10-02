@@ -53,7 +53,7 @@ window.renderStatistics = function (ctx, players, times) {
         CLOUD_X + GAP + FONT_GAP + (COL_WIDTH + COL_DIST) * i,
         CLOUD_Y + COL_Y - (barWidth * times[i]) / maxTime
     );
-    if (players[i] == `Вы`) {
+    if (players[i] === `Вы`) {
       ctx.fillStyle = `#e30e0e`;
     } else {
       ctx.fillStyle =
